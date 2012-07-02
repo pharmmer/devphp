@@ -1,4 +1,5 @@
-devphp
+DevPHP
 ======
 
-PHP framework actually for PHP developers
+PHP framework exactly for excellent PHP developers.
+
